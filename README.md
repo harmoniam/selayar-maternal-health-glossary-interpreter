@@ -1,5 +1,7 @@
 # Japanese–Indonesian Maternal and Child Health Terminology Glossary — Interpreter Edition
 
+[![DOI](https://zenodo.org/badge/1460955972.svg)](https://doi.org/10.5281/zenodo.24299592)
+
 A bidirectional reference for the Selayar Project, arranged for interpreters.
 母子保健・周産期医療 日本語・インドネシア語専門用語辞典(通訳者用特別版)/ Kamus Istilah Kesehatan Ibu dan Anak Jepang–Indonesia (edisi khusus untuk penerjemah)
 
@@ -35,7 +37,12 @@ This is the first edition (prototype edition), compiled with the assistance of A
 
 ## Citation
 
-See CITATION.cff. The DOI will be added after Zenodo registration.
+Masuda, G. (2026). *Japanese–Indonesian Maternal and Child Health Terminology Glossary: Interpreter Edition (Japanese entries in gojūon order)* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24299593
+
+- DOI for v1.0.0: [10.5281/zenodo.24299593](https://doi.org/10.5281/zenodo.24299593)
+- DOI for all versions (always resolves to the latest): [10.5281/zenodo.24299592](https://doi.org/10.5281/zenodo.24299592)
+
+See also CITATION.cff.
 
 ## License
 

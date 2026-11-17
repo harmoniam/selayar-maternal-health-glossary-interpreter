@@ -3,6 +3,14 @@ message: "If you use this glossary, please cite it as below."
 title: "Japanese–Indonesian Maternal and Child Health Terminology Glossary: Interpreter Edition (Japanese entries in gojūon order)"
 version: 1.0.0
 date-released: 2026-11-17
+doi: 10.5281/zenodo.24299593
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24299593
+    description: "Version 1.0.0"
+  - type: doi
+    value: 10.5281/zenodo.24299592
+    description: "All versions (concept DOI, resolves to the latest)"
 authors:
   - family-names: Masuda
     given-names: Gaku
