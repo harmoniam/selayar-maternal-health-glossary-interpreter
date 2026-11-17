@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this glossary, please cite it as below."
+title: "Japanese–Indonesian Maternal and Child Health Terminology Glossary: Interpreter Edition (Japanese entries in gojūon order)"
+version: 1.0.0
+date-released: 2026-11-17
+authors:
+  - family-names: Masuda
+    given-names: Gaku
+    affiliation: "Institute of Tropical Medicine, Nagasaki University"
+license: CC-BY-4.0
+repository-code: "https://github.com/harmoniam/selayar-maternal-health-glossary-interpreter"
+abstract: >-
+  Interpreter edition of a bilingual Japanese–Indonesian and Indonesian–Japanese
+  glossary for maternal and child health, perinatal care, obstetric emergencies,
+  referral systems, telemedicine, and healthcare financing. Same 479 terms as the
+  general edition (DOI 10.5281/zenodo.24298767), with Japanese entries arranged
+  in gojūon (kana) order. Educational reference only; not a substitute for
+  clinical guidelines or professional medical interpretation.
+keywords:
+  - maternal health
+  - midwifery
+  - perinatal care
+  - interpreting
+  - Japanese
+  - Indonesian
+  - Selayar
+references:
+  - type: generic
+    title: "Japanese–Indonesian Maternal and Child Health Terminology Glossary: A Bidirectional Reference for the Selayar Project"
+    authors:
+      - family-names: Masuda
+        given-names: Gaku
+    doi: 10.5281/zenodo.24298767
