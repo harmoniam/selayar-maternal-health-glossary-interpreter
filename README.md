@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/1460955972.svg)](https://doi.org/10.5281/zenodo.24299592)
 
 A bidirectional reference for the Selayar Project, arranged for interpreters.
-母子保健・周産期医療 日本語・インドネシア語専門用語辞典(通訳者用特別版)/ Kamus Istilah Kesehatan Ibu dan Anak Jepang–Indonesia (edisi khusus untuk penerjemah)
+母子保健・周産期医療 日本語・インドネシア語専門用語辞典(あいうえお順 日本語話者、通訳者用特別版)/ Kamus Istilah Kesehatan Ibu dan Anak Jepang–Indonesia (edisi khusus untuk penerjemah)
 
 ## How this edition differs from the general edition
 
