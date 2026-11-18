@@ -37,8 +37,9 @@ This is the first edition (prototype edition, revision 1.1), compiled with the a
 
 ## Citation
 
-Masuda, G. (2026). *Japanese–Indonesian Maternal and Child Health Terminology Glossary: Interpreter Edition (Japanese entries in gojūon order)* (Version 1.1.0). Zenodo. https://doi.org/10.5281/zenodo.24299592
+Masuda, G. (2026). *Japanese–Indonesian Maternal and Child Health Terminology Glossary: Interpreter Edition (Japanese entries in gojūon order)* (Version 1.1.0). Zenodo. https://doi.org/10.5281/zenodo.24327564
 
+- DOI for v1.1.0: [10.5281/zenodo.24327564](https://doi.org/10.5281/zenodo.24327564)
 - DOI for v1.0.0: [10.5281/zenodo.24299593](https://doi.org/10.5281/zenodo.24299593)
 - DOI for all versions (always resolves to the latest): [10.5281/zenodo.24299592](https://doi.org/10.5281/zenodo.24299592)
 

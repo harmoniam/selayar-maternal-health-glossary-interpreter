@@ -1,6 +1,7 @@
 # Changelog
 
 ## [1.1.0] - 2026-11-18
+- DOI: 10.5281/zenodo.24327564
 - Same changes as the general edition v1.1.0. Gojūon section headings now follow the plain-kana rows (e.g. ひ includes び and ぴ); a duplicated source note was removed.
 - Japanese → Indonesian: 588 entries; Indonesian → Japanese: 602 entries.
 - Removed from Japanese → Indonesian the entries whose Japanese side was only the Indonesian word written in katakana, or an Indonesian abbreviation or place name (e.g. Puskesmas, Pustu, Posyandu, BPJS, JKN). In Indonesian → Japanese they remain, with a descriptive Japanese equivalent.
