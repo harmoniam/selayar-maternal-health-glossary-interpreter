@@ -2,7 +2,7 @@
   "title": "Japanese–Indonesian Maternal and Child Health Terminology Glossary: Interpreter Edition (Japanese entries in gojūon order)",
   "upload_type": "publication",
   "publication_type": "other",
-  "description": "<p>Interpreter edition of a bilingual glossary of Japanese–Indonesian and Indonesian–Japanese terminology relevant to maternal and child health, perinatal care, obstetric emergencies, referral systems, telemedicine, and healthcare financing, developed in connection with field research in the Selayar Islands, South Sulawesi, Indonesia.</p><p>It contains the same 479 terms as the general edition (DOI 10.5281/zenodo.24298767), but the Japanese → Indonesian part is arranged in gojūon (kana, あいうえお) order so that interpreters can look up Japanese words as they hear them. The Indonesian → Japanese part is in alphabetical order. Provided as an editable Word document and a print-ready PDF (A5 booklet format, 36 pages; duplex booklet printing recommended).</p><p>The glossary was compiled with the assistance of artificial intelligence from project documents, training materials, and 2026 field research records. It is an educational reference resource and does not replace official clinical guidelines or professional medical interpretation. Translations should be verified for the context of use.</p>",
+  "description": "<p>Interpreter edition of a bilingual glossary of Japanese–Indonesian and Indonesian–Japanese terminology relevant to maternal and child health, perinatal care, obstetric emergencies, referral systems, telemedicine, and healthcare financing, developed in connection with field research in the Selayar Islands, South Sulawesi, Indonesia.</p><p>It contains the same terms as the general edition (588 Japanese → Indonesian, 602 Indonesian → Japanese) (DOI 10.5281/zenodo.24298767), but the Japanese → Indonesian part is arranged in gojūon (kana, あいうえお) order so that interpreters can look up Japanese words as they hear them. The Indonesian → Japanese part is in alphabetical order. Provided as an editable Word document and a print-ready PDF (A5 booklet format, 46 pages; duplex booklet printing recommended).</p><p>The glossary was compiled with the assistance of artificial intelligence from project documents, training materials, and 2026 field research records. It is an educational reference resource and does not replace official clinical guidelines or professional medical interpretation. Translations should be verified for the context of use.</p>",
   "creators": [
     {
       "name": "Masuda, Gaku",
@@ -19,9 +19,9 @@
     "Selayar"
   ],
   "license": "cc-by-4.0",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "access_right": "open",
-  "publication_date": "2026-11-17",
+  "publication_date": "2026-11-18",
   "related_identifiers": [
     {
       "identifier": "10.5281/zenodo.24298767",

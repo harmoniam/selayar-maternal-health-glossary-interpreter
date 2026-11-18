@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this glossary, please cite it as below."
 title: "Japanese–Indonesian Maternal and Child Health Terminology Glossary: Interpreter Edition (Japanese entries in gojūon order)"
-version: 1.0.0
-date-released: 2026-11-17
-doi: 10.5281/zenodo.24299593
+version: 1.1.0
+date-released: 2026-11-18
+doi: 10.5281/zenodo.24299592
 identifiers:
   - type: doi
     value: 10.5281/zenodo.24299593
@@ -20,7 +20,7 @@ repository-code: "https://github.com/harmoniam/selayar-maternal-health-glossary-
 abstract: >-
   Interpreter edition of a bilingual Japanese–Indonesian and Indonesian–Japanese
   glossary for maternal and child health, perinatal care, obstetric emergencies,
-  referral systems, telemedicine, and healthcare financing. Same 479 terms as the
+  referral systems, telemedicine, and healthcare financing. Same terms as the
   general edition (DOI 10.5281/zenodo.24298767), with Japanese entries arranged
   in gojūon (kana) order. Educational reference only; not a substitute for
   clinical guidelines or professional medical interpretation.
